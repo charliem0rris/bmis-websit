@@ -1,0 +1,51 @@
+.footer-content {
+    display: inline-block;
+  }
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }  
+
+.bold {
+  font-weight: bold;
+}
+.educationcolor {
+  color: darkred;
+}
+.experiencescolor {
+  color: darkgoldenrod;
+}
+.skillscolor {
+  color: rgb(205, 114, 49);
+}
+.posttitlefont {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.textunderneathweight {
+  font-weight: lighter;
+}
+.tableauimagetitle {
+  font-size: larger;
+  font-weight: bold;
+}
+.tableaucaption {
+  font-size: medium;
+}
+.tableaubacktotop {
+  font-size: large;
+  color: white;
+}
+.tableaulink {
+  font-size: large;
+  color: white;
+  float: right;
+}
+.aboutmecontact {
+  font-style: italic;
+  font-size: medium;
+}
+.aboutmewriting {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+}
